@@ -10,11 +10,6 @@
 - 🌟 **GSSoC Contributor** – Actively contributing to open-source projects  
 - 🏗️ **MERN Stack Project** – Building a full-stack web app with MongoDB, Express.js, React, and Node.js  
 
-### 🌱 I’m currently learning:  
-- **Advanced React & State Management** (Redux, Context API)  
-- **Cloud Deployment**  
-- **Database Optimization** with MongoDB Atlas  
-
 ### 💬 Ask me about:  
 - Full-Stack Web Development (MERN)  
 - Open-Source Contributions & Collaboration  
@@ -54,10 +49,15 @@
 
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=milan-deori&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repos:  
+
+<div align="center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=milan-deori&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=false&bg_color=000000&title_color=FF6E96&text_color=FFFFFF)
+
+</div>
+
 
 ---
-[![](https://visitcount.itsvg.in/api?id=milan-deori&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
