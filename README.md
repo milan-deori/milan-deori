@@ -42,7 +42,7 @@
 <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milan-deori&layout=compact&theme=radical&hide_border=true" />
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=milan-deori&theme=radical" />
 <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=milan-deori&theme=radical&utcOffset=8" />
-<img height="166em" src="https://github-readme-stats.vercel.app/api?username=milan-deori&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="166em" src="https://github-readme-stats.vercel.app/api?username=milan-deori&show_icons=true&theme=radical" />
 <img height="166em" src="https://nirzak-streak-stats.vercel.app/?user=milan-deori&theme=radical&hide_border=false" />
 </div>
 <br>
