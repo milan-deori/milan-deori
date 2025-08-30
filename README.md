@@ -49,13 +49,45 @@
 
 
 
-### 🔝 Top Contributed Repos:  
+<h3 align="left">🚀 Projects</h3>
 
-<div align="center">
-  
-![](https://github-contributor-stats.vercel.app/api?username=milan-deori&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=false&bg_color=000000&title_color=FF6E96&text_color=FFFFFF)
-
-</div>
+<table>
+  <tr>
+    <th>Project</th>
+    <th>GitHub</th>
+    <th>Live</th>
+  </tr>
+  <tr>
+    <td><strong>● Forest_fire_Detection.</td>
+    <td><a href="https://github.com/milan-deori/Forest_fire_Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><em>Coming Soon</em></td>
+  </tr>
+  <tr>
+    <td><strong>● Leaf-Disease-Detection.</td>
+    <td><a href="https://github.com/milan-deori/Leaf-Disease-Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://leaf-diseases-detection.netlify.app/"></td>
+  </tr>
+  <tr>
+    <td><strong>● UdemyGo :</strong> A modern landing page and platform concept for online course discovery.</td>
+    <td><a href="https://github.com/Amarjha01/udemygo"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://udemygo.com/"><img src="https://img.shields.io/badge/Live-UdemyGo-blue" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● DevNotes :</strong> A lightweight developer-focused note-taking app with markdown support.</td>
+    <td><a href="https://github.com/Amarjha01/DevNotes"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://devnotes.amarjha.dev/"><img src="https://img.shields.io/badge/Live-DevNotes-orange" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Infant Care Compass :</strong> A parenting support tool for infant care resources and tracking.</td>
+    <td><a href="https://github.com/Amarjha01/InfantCareCompass"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://infantcarecompass.live/"><img src="https://img.shields.io/badge/Live-InfantCareCompass-yellowgreen" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
+    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-lightgrey" alt="Live Link" /></a></td>
+  </tr>
+</table>
 
 
 ---
