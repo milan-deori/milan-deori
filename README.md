@@ -58,12 +58,12 @@
     <th>Live</th>
   </tr>
   <tr>
-    <td><strong>● 🍃 Leaf Disease Detection System:</strong> A full-stack MERN application for online shopping.</td>
-    <td><a href="https://github.com/milan-deori/Leaf-Disease-Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><strong>● Forest_fire_Detection:</strong> A full-stack deep learning project for detecting forest fire .</td>
+    <td><a href="https://github.com/milan-deori/Forest_fire_Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
     <td><em>Coming Soon</em></td>
   </tr>
   <tr>
-    <td><strong>● Radical Unlearning :</strong> A learning platform connecting educators & learners for 1-on-1 sessions.</td>
+    <td><strong>● 🍃 Leaf Disease Detection System:</strong> A full-stack deep learning project for detecting diseases in potato & pepper bell leaves.</td>
     <td><a href="https://github.com/milan-deori/Leaf-Disease-Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
     <td><a href="https://leaf-diseases-detection.netlify.app/"><img src="https://img.shields.io/badge/Live-Leaf--Detection-brightgreen" alt="Live Link" /></a></td>
   </tr>
