@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td><strong>● FreshBasket :</strong>A responsive grocery store front-end with product slider, reviews, categories, blog section, and interactive UI elements.</td>
-    <td><a href="https://github.com/milan-deori/FreshBasket"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://github.com/milan-deori/FreeshBasket"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
     <td><a href="https://freeshbasket.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-FreshBasket-yellowgreen" alt="Live Link" /></a></td>
   </tr>
   <tr>
