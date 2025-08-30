@@ -1,6 +1,6 @@
 # 💫 Hi 👋, I'm Milan Deori  
 
-💻 **A passionate Full-Stack Web Developer | MERN Stack Enthusiast | Problem Solver from India**  
+💻 **A passionate Full-Stack Web Developer | AI Enthusiast | GSSoC Contributor 2025 | Problem Solver from India**  
 
 📧 Email Me 👉 **milandeori803@gmail.com** for Collaboration, Projects, or Tech Discussions 😊  
 
