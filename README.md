@@ -68,25 +68,21 @@
     <td><a href="https://leaf-diseases-detection.netlify.app/"><img src="https://img.shields.io/badge/Live-Leaf--Detection-brightgreen" alt="Live Link" /></a></td>
   </tr>
   <tr>
-    <td><strong>● UdemyGo :</strong> A modern landing page and platform concept for online course discovery.</td>
-    <td><a href="https://github.com/Amarjha01/udemygo"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://udemygo.com/"><img src="https://img.shields.io/badge/Live-UdemyGo-blue" alt="Live Link" /></a></td>
+    <td><strong>● WanderSphere :</strong> A full-stack Node.js & Express web app for managing travel accommodations.</td>
+    <td><a href="https://github.com/milan-deori/WanderSphere"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://wandersphere-eax5.onrender.com"><img src="https://img.shields.io/badge/Live-WanderSphere-orange" alt="Live Link" /></a></td>
   </tr>
   <tr>
-    <td><strong>● DevNotes :</strong> A lightweight developer-focused note-taking app with markdown support.</td>
-    <td><a href="https://github.com/Amarjha01/DevNotes"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://devnotes.amarjha.dev/"><img src="https://img.shields.io/badge/Live-DevNotes-orange" alt="Live Link" /></a></td>
+    <td><strong>● FreshBasket :</strong>A responsive grocery store front-end with product slider, reviews, categories, blog section, and interactive UI elements.</td>
+    <td><a href="https://github.com/milan-deori/FreshBasket"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://freeshbasket.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-FreshBasket-yellowgreen" alt="Live Link" /></a></td>
   </tr>
   <tr>
-    <td><strong>● Infant Care Compass :</strong> A parenting support tool for infant care resources and tracking.</td>
-    <td><a href="https://github.com/Amarjha01/InfantCareCompass"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://infantcarecompass.live/"><img src="https://img.shields.io/badge/Live-InfantCareCompass-yellowgreen" alt="Live Link" /></a></td>
+    <td><strong>● CurrenSync:</strong> A modern, responsive currency converter with live exchange rates, flags, and smooth transitions.</td>
+    <td><a href="https://github.com/milan-deori/CurrenSync"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://currensyncc.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live-CurrenSync-blue" alt="Live Link" /></a></td>
   </tr>
-  <tr>
-    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
-    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
-    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-lightgrey" alt="Live Link" /></a></td>
-  </tr>
+  
 </table>
 
 
