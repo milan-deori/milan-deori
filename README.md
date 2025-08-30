@@ -49,14 +49,47 @@
 
 
 
-<h3 align="left">🚀 Projects</h3>
+<h3 align="left">🚀 Projects:</h3>
 
-| Project | GitHub | Live |
-|--------|--------|------|
-| **🍃 Leaf Disease Detection System**: A full-stack deep learning project for detecting diseases in potato & pepper bell leaves. Built with a FastAPI backend and React frontend, with real-time predictions and multi-language support. | [![GitHub](https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg)](https://github.com/milan-deori/Leaf-Disease-Detection) | [![Live](https://img.shields.io/badge/Live-Leaf--Detection-brightgreen)](https://leaf-diseases-detection.netlify.app/) |
-| **💱 CurrenSync**: A modern, responsive currency converter with live exchange rates, flags, and smooth transitions. Built with JS, HTML, CSS. | [![GitHub](https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg)](https://github.com/milan-deori/CurrenSync) | [![Live](https://img.shields.io/badge/Live-CurrenSync-blue)](https://currensyncc.netlify.app/) |
-| **🌍 WanderSphere**: A full-stack Node.js & Express web app for managing travel accommodations. Features authentication, CRUD operations, Cloudinary image uploads, and responsive UI with EJS templates. | [![GitHub](https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg)](https://github.com/milan-deori/WanderSphere) | [![Live](https://img.shields.io/badge/Live-WanderSphere-orange)](https://wandersphere-eax5.onrender.com) |
-| **🛒 FreshBasket**: A responsive grocery store front-end with product slider, reviews, categories, blog section, and interactive UI elements. Built with HTML, CSS, JS. | [![GitHub](https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg)](https://github.com/milan-deori/FreshBasket) | [![Live](https://img.shields.io/badge/Live-FreshBasket-yellowgreen)](https://freeshbasket.netlify.app/) |
+<table>
+  <tr>
+    <th>Project</th>
+    <th>GitHub</th>
+    <th>Live</th>
+  </tr>
+  <tr>
+    <td><strong>● 🍃 Leaf Disease Detection System:</strong> A full-stack MERN application for online shopping.</td>
+    <td><a href="https://github.com/milan-deori/Leaf-Disease-Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><em>Coming Soon</em></td>
+  </tr>
+  <tr>
+    <td><strong>● Radical Unlearning :</strong> A learning platform connecting educators & learners for 1-on-1 sessions.</td>
+    <td><a href="https://github.com/milan-deori/Leaf-Disease-Detection"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://leaf-diseases-detection.netlify.app/"><img src="https://img.shields.io/badge/Live-Leaf--Detection-brightgreen" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● UdemyGo :</strong> A modern landing page and platform concept for online course discovery.</td>
+    <td><a href="https://github.com/Amarjha01/udemygo"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://udemygo.com/"><img src="https://img.shields.io/badge/Live-UdemyGo-blue" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● DevNotes :</strong> A lightweight developer-focused note-taking app with markdown support.</td>
+    <td><a href="https://github.com/Amarjha01/DevNotes"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://devnotes.amarjha.dev/"><img src="https://img.shields.io/badge/Live-DevNotes-orange" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Infant Care Compass :</strong> A parenting support tool for infant care resources and tracking.</td>
+    <td><a href="https://github.com/Amarjha01/InfantCareCompass"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://infantcarecompass.live/"><img src="https://img.shields.io/badge/Live-InfantCareCompass-yellowgreen" alt="Live Link" /></a></td>
+  </tr>
+  <tr>
+    <td><strong>● Parrot Consult (WIP):</strong> An AI-powered consulting assistant platform.</td>
+    <td><a href="https://github.com/Amarjha01/parrotConsult"><img src="https://res.cloudinary.com/dbnticsz8/image/upload/v1723709039/Figma%20Designs/w7dzey31bqipodyehe7e.svg" alt="View on GitHub" /></a></td>
+    <td><a href="https://parrotconsult.com/"><img src="https://img.shields.io/badge/Live-ParrotConsult-lightgrey" alt="Live Link" /></a></td>
+  </tr>
+</table>
+
+
 
 
 
